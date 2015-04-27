@@ -6,8 +6,20 @@ en:
       static_blog_link: "Static Blog"
       dynamic_blog_link: "Dynamic Blog"
       language_options: "View this page in:"
+  posts:
+    new:
+      title: "Title"
+      page_title: "New Post"
+      img_url: "Img url"
+      author: "Author"
+      body: "Body"
+      create_post: "Create Post"
   static_pages:
     home:
       home_intro: "The benefits of eating right"
       home_intro_2: "This is a blog dedicated to healthy eating"
-      home_intro_3: "Click on something on the page"
+      home_intro_2_3: "Click on something on the page"
+    about:
+      about_page_header: "This is the about page@@@"
+      about_page_description: "It tells what the app does, who the people behind it are, why it's awesome, etc."
+      about_contact: "Contact Us"
